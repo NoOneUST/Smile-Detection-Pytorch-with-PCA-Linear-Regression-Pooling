@@ -39,7 +39,9 @@ processed: 17000 / 20260
 processed: 18000 / 20260
 processed: 19000 / 20260
 processed: 20000 / 20260
+
 ===> Doing PCA...
+
 ===> Saving models...
 ```
 
