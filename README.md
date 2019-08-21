@@ -1,7 +1,7 @@
 # Smile Detection (Pytorch)
 
 #### This is an original and useful `smile detection` program implemented with Pytorch.
-
+---
 #### `AdvancedLinearRegression.py`
 
 `AdvancedLinearRegression.py` is the main file implemented with Pytorch which you can directly run to know whether the man on a given picture is smiling or not. 
